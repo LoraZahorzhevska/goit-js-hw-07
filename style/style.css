@@ -9,6 +9,15 @@ img {
   margin-bottom: 10px;
 }
 
+div {
+  margin-bottom: 30px;
+}
+
+input {
+  display: block;
+  margin-bottom: 30px;
+}
+
 #validation-input {
   border: 3px solid #bdbdbd;
 }
